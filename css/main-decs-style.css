@@ -1,0 +1,148 @@
+/* main description styles */
+
+.main-description{
+    background-color: white;
+    margin-left: 90px;
+    font-style: normal;
+    line-height: 17px;
+    margin-bottom: 105px;
+}
+
+.about-title{
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+
+.main-description h1{
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.main-description h2{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 27px;
+    font-style: normal;
+    margin-bottom: 10px;
+}
+
+.main-description a{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.about{
+    width: 500px;
+    height: 270px;
+    margin-bottom: 40px;
+}
+
+.about-description{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.projects{
+    margin-bottom: 50px;
+} 
+
+
+.projects li::marker{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.project-content{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+
+
+.square-bracket{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.work-experience{
+    margin-bottom: 40px;
+}
+
+.work-experience h3{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+}
+
+.organization{
+    color: #FB6D3A;
+}
+
+.date-of-work{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
+
+.work-experience li{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+
+.education{
+    margin-bottom: 100px;
+}
+
+.education h3{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.education h4{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
+
+.education p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
+
+.title-education{
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+    color: #FB6D3A;
+}
