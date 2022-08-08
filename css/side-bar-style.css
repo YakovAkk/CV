@@ -22,7 +22,7 @@
 }
 
 .sidebar-content li::marker {
-    color: orange;
+    color: #FB6D3A;
     font-size: 25px;
 }
 .sidebar-content li {
