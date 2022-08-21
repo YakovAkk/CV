@@ -34,6 +34,14 @@
     color: #595959;
 }
 
+.main-description li::marker{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FB6D3A;
+}
+
 .about{
     width: 500px;
     height: 270px;
@@ -47,17 +55,13 @@
     line-height: 24px;
 }
 
-.projects{
-    margin-bottom: 50px;
-} 
 
-
-.projects li::marker{
-    font-style: normal;
+.prolects-title{
+    font-size: 18px;
     font-weight: 700;
-    font-size: 14px;
-    line-height: 24px;
-    color: #000000;
+    line-height: 27px;
+    font-style: normal;
+    margin-bottom: 10px;
 }
 
 .project-content{
@@ -67,8 +71,6 @@
     line-height: 24px;
     color: #595959;
 }
-
-
 
 .square-bracket{
     font-style: normal;
@@ -80,6 +82,14 @@
 
 .work-experience{
     margin-bottom: 40px;
+}
+
+.work-experience p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 15px;
+    color: #A8A8A8;
 }
 
 .work-experience h3{
